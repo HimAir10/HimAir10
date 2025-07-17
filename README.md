@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Himanshu Jha
-- 👀 I’m interested in AI/ML
-- I completed Machine Learning Course from Andrew Ng stanford University course of Coursera 
-- 🌱 I’m currently learning Deep Learning ALgorithms
+- 👀 I’m a Interested in Building AI Agents
+- 🌱 I’m currently working on Agentic AI projects
 - 📫 How to reach me himanshujha7489@gmail.com
 
 <!---
